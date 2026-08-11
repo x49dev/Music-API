@@ -1,0 +1,10 @@
+export { searchRoutes } from './search.js';
+export type { SearchRouteOptions } from './search.js';
+export { trackRoutes } from './tracks.js';
+export type { TrackRouteOptions } from './tracks.js';
+export { playlistRoutes } from './playlists.js';
+export type { PlaylistRouteOptions } from './playlists.js';
+export { artistRoutes } from './artists.js';
+export type { ArtistRouteOptions } from './artists.js';
+export { streamRoutes } from './streams.js';
+export type { StreamRouteOptions } from './streams.js';
