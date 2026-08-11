@@ -185,5 +185,4 @@ describe('API Integration Tests', () => {
       expect(response1.headers['x-request-id']).not.toBe(response2.headers['x-request-id']);
     });
   });
-
 });
