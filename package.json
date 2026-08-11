@@ -65,7 +65,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@commitlint/cli": "^19.8.1",
+    "@commitlint/cli": "^21.2.1",
     "@commitlint/config-conventional": "^19.8.1",
     "@eslint/js": "^10.0.1",
     "@types/better-sqlite3": "^9.6.0",
